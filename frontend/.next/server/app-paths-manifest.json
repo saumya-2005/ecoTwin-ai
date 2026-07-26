@@ -1,8 +1,0 @@
-{
-  "/dashboard/page": "app/dashboard/page.js",
-  "/insights/page": "app/insights/page.js",
-  "/predictions/page": "app/predictions/page.js",
-  "/page": "app/page.js",
-  "/digital-twin/page": "app/digital-twin/page.js",
-  "/reports/page": "app/reports/page.js"
-}

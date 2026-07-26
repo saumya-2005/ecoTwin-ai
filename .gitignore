@@ -2,22 +2,18 @@
 node_modules/
 **/node_modules/
 
-# Environment variables
+# Next.js
+.next/
+out/
+
+# Environment
 .env
 .env.*
 
 # Logs
-logs/
 *.log
+logs/
 
-# Build folders
+# Build
 dist/
 build/
-
-# OS files
-.DS_Store
-Thumbs.db
-
-# IDE
-.vscode/
-.idea/
